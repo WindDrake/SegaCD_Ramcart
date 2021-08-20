@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Sega Genesis")(type Legacy)(uri "${KIPRJMOD}/Sega Genesis.lib")(options "")(descr ""))
+  (lib (name Sega-CD-RAM-Cart-rescue)(type Legacy)(uri "${KIPRJMOD}/Sega CD RAM Cart-rescue.lib")(options "")(descr ""))
+)
