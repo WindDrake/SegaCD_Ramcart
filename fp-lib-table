@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "Sega CD RAM Cart")(type KiCad)(uri "${KIPRJMOD}/Sega CD RAM Cart.pretty")(options "")(descr ""))
   (lib (name BU2450SM)(type KiCad)(uri ${KIPRJMOD}/BU2450SM)(options "")(descr ""))
+  (lib (name Symbol)(type KiCad)(uri ${KIPRJMOD}/Symbol.pretty)(options "")(descr ""))
 )
