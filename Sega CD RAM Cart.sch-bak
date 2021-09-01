@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Sega~Genesis:Genesis_Edge_Connector J1
+L Sega_Genesis:Genesis_Edge_Connector J1
 U 1 1 611D9EA9
 P 6850 1700
 F 0 "J1" H 5925 1465 50  0000 C CNN
@@ -847,7 +847,7 @@ F 3 "" H 900 1350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Sega~Genesis:Battery_Cell BT1
+L Sega_Genesis:Battery_Cell BT1
 U 1 1 613CFD7B
 P 900 1250
 F 0 "BT1" H 1018 1346 50  0000 L CNN
@@ -1268,7 +1268,7 @@ F 3 "" H 1900 4150 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Sega~Genesis:BAT5405E D1
+L Sega_Genesis:BAT5405E D1
 U 1 1 6124A51D
 P 1900 1150
 F 0 "D1" H 1950 1497 60  0000 C CNN
