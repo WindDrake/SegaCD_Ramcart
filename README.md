@@ -9,4 +9,4 @@
 
  RAM Cart tested 9/3 with Dark Wizard and does not have the save corruption issue that the Castlemania Ultra cart has.
 
- CSV Format BOM added 10/30/21.
+ CSV Format BOM & Gerbers added 10/30/21.
