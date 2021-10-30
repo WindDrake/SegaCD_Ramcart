@@ -8,3 +8,5 @@
  PCB revision 1.1 has this fixed (Current).
 
  RAM Cart tested 9/3 with Dark Wizard and does not have the save corruption issue that the Castlemania Ultra cart has.
+
+ CSV Format BOM added 10/30/21.
