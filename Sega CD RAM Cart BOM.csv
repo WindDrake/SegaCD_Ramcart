@@ -1,0 +1,21 @@
+Source:,\Sega CD Ram Cart\Sega CD RAM Cart.sch,,,
+Date:,10/30/2021 13:53,,,
+Tool:,Eeschema (5.1.10)-1,,,
+Generator:,\bin\scripting\plugins/bom_csv_grouped_by_value.py,,,
+Component Count:,21,,,
+,,,,
+Reference(s),Value,LibPart,Footprint,Digikey PN
+BT1,Battery_Cell,Sega_Genesis:Battery_Cell,BU2450SM:BAT_BU2450SM-JJ-G,BU2450SM-JJ-GTR
+C1-C7,0.1uF,Device:C,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C1206C104K4RACTU
+C8,22uF 25v,Device:CP,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm,25ML22MEFC5X5
+D1,SDM40E20LC-7,Sega_Genesis:BAT5405E,digikey-footprints:SOT-23-3,SDM40E20LC-7
+"H1, H2",MountingHole,Mechanical:MountingHole,Sega CD RAM Cart:MountingHole_6.2mm,
+J1,Genesis_Edge_Connector,Sega_Genesis:Genesis_Edge_Connector,Sega CD RAM Cart:Genesis_Card_Edge,
+"R1, R2",10K,Device:R,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805FT10K0
+U1,74LS30,74xx:74LS30,digikey-footprints:SOIC-14_W3.9mm,SN74LS30DR
+U2,CY62148ELL-55SXI,Memory_RAM:IS61C5128AS-25QLI,Package_SO:SSOP-32_11.305x20.495mm_P1.27mm,CY62148ELL-55SXI
+U3,74LS30,74xx:74LS30,digikey-footprints:SOIC-14_W3.9mm,SN74LS30DR
+U4,74LS138,74xx:74LS138,digikey-footprints:SOIC-16_W3.90mm,SN74LS138DR
+U5,74LS32,74xx:74LS32,digikey-footprints:SOIC-14_W3.9mm,SN74LS32DR
+U6,74LS74,74xx:74LS74,digikey-footprints:SOIC-14_W3.9mm,SN74LS74ADR
+U7,74LS245,74xx:74LS245,digikey-footprints:SSOP-20_W5.3mm,SN74LS245DBR
